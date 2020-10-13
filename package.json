@@ -1,0 +1,19 @@
+{
+  "name": "google-sheet-to-calendar",
+  "version": "1.0.0",
+  "description": "take a csv of dates and add them to a google calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirPotatoIV/google-sheet-to-calendar.git"
+  },
+  "author": "Jake O'Toole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirPotatoIV/google-sheet-to-calendar/issues"
+  },
+  "homepage": "https://github.com/SirPotatoIV/google-sheet-to-calendar#readme"
+}
